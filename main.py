@@ -19,7 +19,8 @@ language = 'en'
 
 start = time.time()
 
-PERIOD_OF_TIME = 60
+
+PERIOD_OF_TIME = 9000 #usually contest is about 2:30 hours.
 
 while 1:
 # sending get request and saving the response as response object
