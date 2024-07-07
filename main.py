@@ -45,9 +45,7 @@ while 1:
         else:
            p = vlc.MediaPlayer("file:///Wrong.mp3")
            p.play()
-    #    myobj = gTTS(text= s, lang=language, slow= True)
-     #   myobj.save("welcome.mp3")
-      #  os.system("start welcome.mp3")
+            
         prevSubmissionTime = data['result'][0]['creationTimeSeconds']
 
     time.sleep(0.2)
