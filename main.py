@@ -54,6 +54,6 @@ while 1:
 
 """
 This is Data format :
-[{'id': 128768322, 'contestId': 1566, 'creationTimeSeconds': 1631566427, 'relativeTimeSeconds': 2147483647, 'problem': {'contestId': 1566, 'index': 'E', 'name': 'Buds Re-hanging', 'type': 'PROGRAMMING', 'points': 2000.0, 'tags': ['constructive algorithms', 'dfs and similar', 'dp', 'greedy', 'trees']}, 'author': {'contestId': 1566, 'members': [{'handle': 'noobiesAG'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1631457300}, 'programmingLanguage': 'GNU C++17 (64)', 'verdict': 'WRONG_ANSWER', 'testset': 'TESTS', 'passedTestCount': 2, 'timeConsumedMillis': 155, 'memoryConsumedBytes': 33689600}]
+[{'id': 128768322, 'contestId': 1566, 'creationTimeSeconds': 1631566427, 'relativeTimeSeconds': 2147483647, 'problem': {'contestId': 1566, 'index': 'E', 'name': 'Buds Re-hanging', 'type': 'PROGRAMMING', 'points': 2000.0, 'tags': ['constructive algorithms', 'dfs and similar', 'dp', 'greedy', 'trees']}, 'author': {'contestId': 1566, 'members': [{'handle': 'gouravg'}], 'participantType': 'PRACTICE', 'ghost': False, 'startTimeSeconds': 1631457300}, 'programmingLanguage': 'GNU C++17 (64)', 'verdict': 'WRONG_ANSWER', 'testset': 'TESTS', 'passedTestCount': 2, 'timeConsumedMillis': 155, 'memoryConsumedBytes': 33689600}]
 
 """
